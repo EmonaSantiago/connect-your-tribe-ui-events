@@ -68,19 +68,19 @@ a:hover {
    /* margin: 1rem; */
  }
 
-.blue{
+.pink{
    background:var(--highlight-secondary);
    color:var(--secondary);
    border:var(--secondary);
 }
 
-.yellow {
+.blue {
    background-color: var(--highlight-primary);
    color:var(--secondary);
    border:var(--secondary);
 }
 
-.pink {
+.green {
    background-color: rgb(33, 223, 16);
    color:var(--secondary);
    border:var(--secondary);

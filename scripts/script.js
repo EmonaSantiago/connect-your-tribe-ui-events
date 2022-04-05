@@ -14,17 +14,17 @@ buttons.forEach(button=>{
 })
 
 function onClick() {
-  this.classList.toggle('blue')
+  this.classList.toggle('pink')
 }
 
 function onDblClick() {
-  this.classList.toggle('yellow')
+  this.classList.toggle('blue')
 }
 
 function onMouseDown() {
   const self = this
   timer = setTimeout(()=>{
-    self.classList.toggle('pink')
+    self.classList.toggle('green')
   }, 500)
 }
 
