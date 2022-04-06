@@ -12,6 +12,7 @@ Geef de pagina wat kleur! met gebruik van de buttons:
 * Click: Pink
 * Dubbel click: Blue
 * Hold Click: Green
+
 Met een toggle functie zodat je opnieuw kan beginnen!
 
 <img width="448" alt="Schermafbeelding 2022-04-05 om 18 19 57" src="https://user-images.githubusercontent.com/90447045/161800147-3e86b20a-10f3-41f3-88d9-5b4e330fd489.png">
